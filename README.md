@@ -1,5 +1,8 @@
 # Voluntinder
 
+A web-based application to help civic-minded citizens find opportunities to volunteer in their community!
+
+
 ## Implemented with React
 
 ### Setup
