@@ -47,7 +47,7 @@ class Home extends Component {
                 <p className="ev-comp">Company</p>
                 <p className="ev-date">11/11/11</p>
                 <p className="ev-desc">
-              Sed ut perspiciatis unde omnis iste natus error sit volup tatem accus antium doloremque laudantium omnis iste natus error sit omnis iste natus error sit...
+              Sed ut perspiciatis unde omnis iste natus error sit volup tatem accus antium doloremque laudantium ...
                   <a href="#">Read More</a>
                 </p>
               </div>

@@ -11,6 +11,12 @@ const Header = () => {
       <div className="row column">
         <h2 id="bigOne"></h2>
         <h2>Quickly and easily find opportunities around Indianapolis <br /> to engage in volunteerism and philanthropy.</h2>
+        <div className="row">
+          <p>
+            <Link to="/profile"><a className="in">My Profile</a></Link>
+            <Link to="/"><a className="out">Log Out</a></Link>
+          </p>
+        </div>
       </div>
     </header>
     </div>

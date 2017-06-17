@@ -32,7 +32,7 @@ class Login extends Component {
               <input type="checkbox" name="rememberMe" />
               <label htmlFor="rememberMe">Remember Me</label>
 
-              <button type="submit" className="logInButton"><Link to="/profile">Log In</Link></button>
+              <Link to="/profile"><button type="submit" className="logInButton">Log In</button></Link>
 
           </form>
       </div>

@@ -176,7 +176,7 @@ label {
 }
 
 main{
-  background-image: url('https://files.slack.com/files-pri/T4X17BNEN-F5W6GFKQX/bestfuckingbanner.jpg');
+  background-image: url('../imgs/site-assets/banner.jpg');
   height:100%;
 }
 
@@ -200,4 +200,13 @@ main {
 
 .resize {
   width:80%;
+}
+
+.in {
+  color: white;
+}
+
+.out {
+  color: white;
+  float: right;
 }
