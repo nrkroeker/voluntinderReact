@@ -33,9 +33,9 @@ class Home extends Component {
               </div>
               <div className="small-3 columns featured-event">
                 <img className="ev-img float-center" src={helpGirlBike} alt="" />
-                <h4 className="ev-title">Event</h4>
-                <p className="ev-comp">Company</p>
-                <p className="ev-date">11/11/11</p>
+                <h4 className="ev-title">Support the City</h4>
+                <p className="ev-comp">Indy Police Department</p>
+                <p className="ev-date">7/11/14</p>
                 <p className="ev-desc">
                 Sed ut perspiciatis unde omnis iste natus error sit volup tatem accus antium doloremque omnis iste natus error sit omnis iste natus error sit...
                   <a href="#">Read More</a>
@@ -43,9 +43,9 @@ class Home extends Component {
               </div>
               <div className="small-3 columns featured-event">
                 <img className="ev-img float-center" src={helpElderly} alt="" />
-                <h4 className="ev-title">Event</h4>
-                <p className="ev-comp">Company</p>
-                <p className="ev-date">11/11/11</p>
+                <h4 className="ev-title">Still Kicking</h4>
+                <p className="ev-comp">TuneHarmony</p>
+                <p className="ev-date">03/25/11</p>
                 <p className="ev-desc">
               Sed ut perspiciatis unde omnis iste natus error sit volup tatem accus antium doloremque laudantium ...
                   <a href="#">Read More</a>
@@ -53,9 +53,9 @@ class Home extends Component {
               </div>
               <div className="small-3 columns featured-event">
                 <img className="ev-img float-center" src={dogHelp} alt="" />
-                <h4 className="ev-title">Event</h4>
-                <p className="ev-comp">Company</p>
-                <p className="ev-date">11/11/11</p>
+                <h4 className="ev-title">Shelter Training</h4>
+                <p className="ev-comp">Marian County Human Society</p>
+                <p className="ev-date">10/01/16</p>
                 <p className="ev-desc">
               Sed ut perspiciatis unde omnis iste natus error sit volup tatem accus antium...
                   <a href="#">Read More</a>
@@ -63,8 +63,8 @@ class Home extends Component {
               </div>
               <div className="small-3 columns featured-event">
                 <img className="ev-img float-center" src={beeHelpful} alt="" />
-                <h4 className="ev-title">Event</h4>
-                <p className="ev-comp">Company</p>
+                <h4 className="ev-title">Neighborly Love</h4>
+                <p className="ev-comp">City of Indianapolis</p>
                 <p className="ev-date">11/11/11</p>
                 <p className="ev-desc">
               Sed ut perspiciatis unde omnis iste natus error sit volup tatem accus antium doloremque laudantium omnis iste natus...
