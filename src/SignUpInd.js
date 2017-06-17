@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import { Router, Route, Link, IndexRoute, hashHistory, browserHistory } from 'react-router-dom'
 
 import Header from './Header.js'
 
@@ -39,7 +40,7 @@ class SignUpInd extends Component {
                             <input className="new-member password" type="password" placeholder="********" />
                           <label className="new-member" name="user-password">Confirm Password</label>
                             <input className="new-member password-confirm" type="password" placeholder="********" />
-                          <button type="submit">Submit</button>
+                          <Link to="/profile"><button type="submit">Submit</button></Link>
                         </form>
                       </div>
                       <div className="small-3 columns">

@@ -43,8 +43,8 @@ class Home extends Component {
               </div>
               <div className="small-3 columns featured-event">
                 <img className="ev-img float-center" src={helpElderly} alt="" />
-                <h4 className="ev-title">Still Kicking</h4>
-                <p className="ev-comp">TuneHarmony</p>
+                <h4 className="ev-title">Senior Day</h4>
+                <p className="ev-comp">TuneBridge</p>
                 <p className="ev-date">03/25/11</p>
                 <p className="ev-desc">
               Sed ut perspiciatis unde omnis iste natus error sit volup tatem accus antium doloremque laudantium ...
